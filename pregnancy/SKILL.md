@@ -9,6 +9,13 @@ description: Manage pregnancy-specific health context and tracking using a focus
 
 Use this skill for pregnancy as a specific health event/context. Maintain detailed pregnancy information in `pregnancy.md`, while keeping `health.md` updated with pregnancy status, skill attachment, linked file entry, and any open follow-up questions.
 
+## Medical Grounding (Load First)
+
+- Before answering pregnancy-specific health questions, read `references/pregnancy-clinical-grounding.md`.
+- Use it to ground responses in core pregnancy priorities, red flags, and information-gathering focus areas.
+- Treat it as a high-level clinical orientation for the agent, not a substitute for local guidelines or clinician judgment.
+- If the user asks for region-specific recommendations, clarify the country and defer to local guidance where it differs.
+
 ## Core Workflow
 
 Follow these steps in order unless the user requests a narrower action.
@@ -121,3 +128,4 @@ Use these sections when relevant. Skip sections that do not apply.
 ## References
 
 - Read `references/pregnancy-record-pattern.md` for a canonical `pregnancy.md` template and `health.md` sync checklist.
+- Read `references/pregnancy-clinical-grounding.md` for current pregnancy-focused medical grounding and safety priorities.

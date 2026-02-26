@@ -3,6 +3,7 @@
 `pregnancy` is a condition/event skill for managing pregnancy-specific information in `pregnancy.md` while keeping `health.md` synchronized.
 
 It helps an agent:
+- ground pregnancy-related answers using a curated medical reference (with source links and review date)
 - maintain pregnancy context for future answers
 - ask high-value pregnancy follow-up questions
 - store detailed pregnancy information in `pregnancy.md`

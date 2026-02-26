@@ -1,0 +1,6 @@
+interface:
+  display_name: "Pregnancy"
+  short_description: "Pregnancy context and pregnancy.md"
+  default_prompt: "Use $pregnancy to manage pregnancy-specific information in pregnancy.md, ask key follow-up questions, and keep health.md updated with pregnancy context and linked files."
+policy:
+  allow_implicit_invocation: true

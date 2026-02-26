@@ -11,6 +11,7 @@ Use this skill for pregnancy as a specific health event/context. Maintain detail
 
 ## Medical Grounding (Load First)
 
+- This skill and its reference files are **not reviewed by a medical professional**.
 - Before answering pregnancy-specific health questions, read `references/pregnancy-clinical-grounding.md`.
 - Use it to ground responses in core pregnancy priorities, red flags, and information-gathering focus areas.
 - Treat it as a high-level clinical orientation for the agent, not a substitute for local guidelines or clinician judgment.
@@ -120,6 +121,7 @@ Use these sections when relevant. Skip sections that do not apply.
 
 ## Safety Boundaries
 
+- This skill is **not reviewed by a medical professional**.
 - Do not treat routine tracking as a substitute for prenatal care.
 - Escalate urgent symptoms using urgent/emergency care guidance.
 - Do not provide definitive medication safety decisions without appropriate clinical confirmation.

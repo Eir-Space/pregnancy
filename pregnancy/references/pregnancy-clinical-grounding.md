@@ -4,6 +4,7 @@ Use this reference to ground an agent's pregnancy-related responses with the mos
 
 ## Scope
 
+- This reference is **not reviewed by a medical professional**.
 - This is a high-level grounding reference for agents, not a clinical protocol.
 - Use it to improve relevance and safety when answering health questions for a pregnant person.
 - Do not use it to replace emergency care, prenatal care, or clinician-specific recommendations.
@@ -139,6 +140,10 @@ When pregnancy is confirmed or strongly suspected:
 ## Source Maintenance
 
 This reference should be reviewed regularly and clinician-checked before major releases.
+
+### Review Status
+
+- Not reviewed by a medical professional (as of 2026-02-26)
 
 ### Last Reviewed
 
